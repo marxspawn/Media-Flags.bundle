@@ -460,6 +460,7 @@
   </Studio>
 	<VideoCodec>
 		<match name="mpeg4" expression=".*msmpeg4.*" />
+		<match name="dvd" expression=".*mpeg2video.*" />
 	</VideoCodec>
 	<AudioCodec>
 		<match name="ogg" expression="vorbis" />
