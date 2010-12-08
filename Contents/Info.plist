@@ -14,7 +14,7 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-  <key>PlexResourceBundle</key>
-  <string>1</string>
+	<key>PlexPluginClass</key>
+	<string>Resource</string>
 </dict>
 </plist>
