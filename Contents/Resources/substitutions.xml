@@ -539,6 +539,7 @@
 		<match name="UK_Film_Council" expression="uk film council" />
 		<match name="United_Artists" expression="united artists" />
 		<match name="Universal" expression="universal" />
+		<match name="Universal" expression="universal pictures" />
 		<match name="Universal" expression="universal studios" />
 		<match name="Univision" expression="univision" />
 		<match name="UPN" expression="upn" />
