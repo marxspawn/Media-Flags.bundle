@@ -405,6 +405,8 @@
 		<match name="platige" expression="platige" />
 		<match name="Platinum_Dunes" expression="platinumdunes" />
 		<match name="Playtone" expression="playtone" />
+		<match name="Play_UK" expression="play uk" />
+		<match name="Play_UK" expression="uk play" />
 		<match name="polsat" expression="polsat" />
 		<match name="polygram" expression="polygram" />
 		<match name="Porchlight" expression="porchlight" />
@@ -492,6 +494,7 @@
 		<match name="Studio_Ghibli" expression="studio ghibli" />
 		<match name="Summit" expression="summit" />
 		<match name="Svensk_Filmindustri" expression="svensk" />
+		<match name="SVT" expression="svt" />
 		<match name="SVT1" expression="SVT1" />
 		<match name="SVT2" expression="SVT2" />
 		<match name="SyFy" expression="SyFy" />
@@ -500,6 +503,7 @@
 		<match name="Tandem" expression="tandem" />
 		<match name="Taurus_Film" expression="taurus" />
 		<match name="TBS" expression="tbs" />
+		<match name="TBS" expression="tbs superstation" />
 		<match name="TCM" expression="tcm" />
 		<match name="Telecinco" expression="Telecinco" />
 		<match name="Telemundo" expression="telemundo" />
