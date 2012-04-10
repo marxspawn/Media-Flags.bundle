@@ -388,9 +388,9 @@
 		<match name="Overturefilms" expression="overturefilms" />
 		<match name="Pan Vision" expression="Pan Vision" />
 		<match name="Pandora_Film" expression="pandora film" />
-		<match name="Paramount" expression="paramount" />
-		<match name="Paramount" expression="paramount pictures" />
 		<match name="Paramount_Classics" expression="paramount class" />
+		<match name="Paramount_Pictures" expression="paramount pictures" />
+		<match name="Paramount_Pictures" expression="paramount" />
 		<match name="Paramount_Vantage" expression="paramount vantage" />
 		<match name="Participant" expression="participant" />
 		<match name="Pathe" expression="pathe" />
