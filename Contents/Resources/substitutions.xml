@@ -61,16 +61,18 @@
 		<match name="Batjac" expression="batjac productions" />
 		<match name="bazmark" expression="bazmark" />
 		<match name="BBC America" expression="BBC America" />
-		<match name="bbc_four" expression="BBC Four" />
-		<match name="bbc_one" expression="BBC One" />
-		<match name="bbc prime" expression="bbc prime" />
-		<match name="bbc_three" expression="BBC Three" />
-		<match name="bbc2" expression="BBC Two" />
-		<match name="bbc2" expression="bbc2" />
+		<match name="BBC Four" expression="BBC Four" />
+		<match name="BBC Four" expression="bbc_four" />
+		<match name="BBC One" expression="BBC One" />
+		<match name="BBC One" expression="bbc1" />
+		<match name="BBC One" expression="bbc_one" />
+		<match name="BBC Prime" expression="BBC Prime" />
+		<match name="BBC Three" expression="BBC Three" />
+		<match name="BBC Three" expression="bbc_three" />
+		<match name="BBC Two" expression="BBC Two" />
+		<match name="BBC Two" expression="bbc2" />
+		<match name="BBC Two" expression="bbc_two" />
 		<match name="BBC" expression="bbc" />
-		<match name="bbc_four" expression="bbc_four" />
-		<match name="bbc_one" expression="bbc_one" />
-		<match name="bbc_three" expression="bbc_three" />
 		<match name="Beacon" expression="beacon" />
 		<match name="Becker_Entertainment" expression="becker" />
 		<match name="Belair_Entertainment" expression="belair" />
