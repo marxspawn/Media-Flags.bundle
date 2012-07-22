@@ -608,11 +608,11 @@
 		<match name="h264" expression=".*h264.*" />
 		<match name="h264" expression=".*h.264.*" />
 		<match name="h264" expression=".*x264.*" />
-		<match name="wmv" expression=".*vmw.*" />
-		<match name="wmv" expression=".*vmw1.*" />
-		<match name="wmv" expression=".*vmw2.*" />
-		<match name="wmvhd" expression=".*vmw3.*" />
-		<match name="wmvhd" expression=".*vmwhd.*" />
+		<match name="wmv" expression=".*wmv.*" />
+		<match name="wmv" expression=".*wmv1.*" />
+		<match name="wmv" expression=".*wmv2.*" />
+		<match name="wmvhd" expression=".*wmv3.*" />
+		<match name="wmvhd" expression=".*wmvhd.*" />
 		<match name="xvid" expression=".*xvid.*" />
 		<match name="xvid" expression=".*xvid2.*" />
 		<match name="mp4" expression=".*mp42.*" />
