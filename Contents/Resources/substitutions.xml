@@ -259,8 +259,8 @@
 		<match name="Hustler_Video" expression="hustler video" />
 		<match name="Hyde_Park_Entertainment" expression="hyde park" />
 		<match name="Icon_Entertainment" expression="icon" />
-  		<match name="Illumination_Entertainment" expression="illumination" />
-  		<match name="Illumination_Entertainment" expression="illumination entertainment" />
+		<match name="Illumination_Entertainment" expression="illumination" />
+		<match name="Illumination_Entertainment" expression="illumination entertainment" />
 		<match name="Image" expression="image" />
 		<match name="Image_Movers" expression="imagemovers" />
 		<match name="Imaginary_Forces" expression="imaginary forces" />
@@ -574,7 +574,7 @@
 		<match name="Warner_Bros" expression="the wb" />
 		<match name="Warner_Bros" expression="warner bro" />
 		<match name="Warner_Bros" expression="WB" />
-  		<match name="Warner_Bros" expression="warner bros entertainment" />
+		<match name="Warner_Bros" expression="warner bros entertainment" />
 		<match name="Warner_Bros_Animation" expression="warner bros ani" />
 		<match name="Warner_Independent_Pictures" expression="warner independent pictures" />
 		<match name="Water_Walk_Productions" expression="water walk productions" />
