@@ -1,5 +1,5 @@
 <MediaFlagSubstitutions>
-  <Studio>		
+	<Studio>
 		<match name="1492_Pictures" expression="1492" />
 		<match name="20th_Century_Fox" expression="20th century fox" />
 		<match name="20th_Century_Fox" expression="fox 2000" />
@@ -594,7 +594,7 @@
 		<match name="zebra" expression="zebra" />
 		<match name="zentropa" expression="zentropa" />
 		<match name="Zomba" expression="zomba" />
-  </Studio>
+	</Studio>
 	<VideoCodec>
 		<match name="divx" expression=".*divx.*" />
 		<match name="divx" expression=".*div2.*" />
@@ -640,8 +640,10 @@
 		<match name="pcm" expression="pcm_bluray" />
 		<match name="pcm" expression="pcm_s16le" />
 		<match name="pcm" expression="pcm_u8" />
-		<match name="wma" expression="wma2" />
-		<match name="wma" expression="wma3" />
+		<match name="pcm" expression="adpcm_xa" />
+		<match name="pcm" expression="adpcm_ima_wav" />
+		<match name="wma" expression="wmav?2" />
+		<match name="wma" expression="wmav?3" />
 		<match name="wma" expression="wmapro" />
 		<match name="ogg" expression="vorbis" />
 		<match name="dolby_truehd" expression="dolbytruehd" />
