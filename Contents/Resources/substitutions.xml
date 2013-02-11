@@ -412,7 +412,7 @@
 		<match name="Play_UK" expression="play uk" />
 		<match name="Play_UK" expression="uk play" />
 		<match name="polsat" expression="polsat" />
-		<match name="polygram" expression="polygram" />
+		<match name="Polygram" expression="polygram" />
 		<match name="Porchlight" expression="porchlight" />
 		<match name="Portman_Film" expression="portman film" />
 		<match name="premiere direkt" expression="premiere direkt" />
