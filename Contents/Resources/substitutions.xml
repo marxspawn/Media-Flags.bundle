@@ -233,7 +233,7 @@
 		<match name="Global-TV" expression="Global TV" />
 		<match name="Glue_Works_Entertainment" expression="glue works entertainment" />
 		<match name="gofilms" expression="gofilms" />
-		<match name="Goldwyn" expression="goldwyn" />
+		<match name="Goldwyn" expression="^((?!metro).)*goldwyn" />
 		<match name="Gold_Circle_Films" expression="gold ?circle" />
 		<match name="Gracie_Films" expression="gracie" />
 		<match name="Gramercy_Pictures" expression="gramercy" />
