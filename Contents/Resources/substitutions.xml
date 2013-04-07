@@ -540,6 +540,7 @@
 		<match name="TV3" expression="TV3" />
 		<match name="TV4" expression="TV4" />
 		<match name="tvn" expression="tvn" />
+		<match name="tvnz" expression="tvnz" />
 		<match name="tvp" expression="tvp" />
 		<match name="TV_Land" expression="tv land" />
 		<match name="Twisted_Pictures" expression="twisted" />
