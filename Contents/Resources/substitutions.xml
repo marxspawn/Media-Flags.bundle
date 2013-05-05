@@ -163,6 +163,7 @@
 		<match name="disneychannel" expression="disney channel" />
 		<match name="Distant_Horizon" expression="distant horizon" />
 		<match name="DMAX" expression="DMAX" />
+		<match name="DNA" expression="DNA Films" />
 		<match name="Dolores_Pictures" expression="dolores pictures" />
 		<match name="Donners" expression="donners" />
 		<match name="Don_Simpson-Jerry_Bruckheimer_Films" expression="don simpson-jerry bruckheimer films" />
