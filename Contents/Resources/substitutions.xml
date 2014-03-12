@@ -90,7 +90,7 @@
 		<match name="Bristol_Bay" expression="bristol bay" />
 		<match name="Broken_Lizard" expression="broken lizard industries" />
 		<match name="Brooklyn_Films" expression="brooklyn" />
-		<match name="Buena_Vista_International" expression="buena vista" />
+		<match name="Buena_Vista" expression="buena vista" />
 		<match name="Bulletproof" expression="bulletproof" />
 		<match name="C2_Pictures" expression="c2" />
 		<match name="canal+" expression="canal+" />
