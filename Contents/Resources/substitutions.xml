@@ -521,6 +521,7 @@
 		<match name="thewb" expression="thewb" />
 		<match name="The_Entertainment_Group" expression="the entertainment group" />
 		<match name="The_Film_Foundry" expression="film foundry" />
+		<match name="the_hub" expression="the hub" />
 		<match name="The_Independent_Film_Channel" expression="the independent film channel" />
 		<match name="The_WB_Television_Network" expression="the wb television network" />
 		<match name="Thierry_Mugler" expression="thierry mugler" />
