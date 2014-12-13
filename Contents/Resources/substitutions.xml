@@ -13,6 +13,8 @@
 		<match name="aande" expression="aande" />
 		<match name="Aardman" expression="aardman" />
 		<match name="abandon" expression="abandon" />
+		<match name="ABC_Australia" expression="abc1" />
+		<match name="ABC_Australia" expression="australian broadcasting" />
 		<match name="abc" expression="abc" />
 		<match name="abc" expression="american broadcasting" />
 		<match name="abcfamily" expression="abc family" />
@@ -260,6 +262,8 @@
 		<match name="Hustler_Video" expression="hustler video" />
 		<match name="Hyde_Park_Entertainment" expression="hyde park" />
 		<match name="Icon_Entertainment" expression="icon" />
+		<match name="ifc" expression="ifc" />
+		<match name="ifc" expression="independent film channel" />
 		<match name="Illumination_Entertainment" expression="illumination" />
 		<match name="Illumination_Entertainment" expression="illumination entertainment" />
 		<match name="Image" expression="image" />
@@ -457,6 +461,8 @@
 		<match name="Sat1" expression="Sat1" />
 		<match name="Saturn_Films" expression="saturn" />
 		<match name="saul zaentz" expression="saul zaentz" />
+		<match name="SBS" expression="sbs" />
+		<match name="SBS" expression="special broadcasting" />
 		<match name="scifi" expression="scifi" />
 		<match name="scifi" expression="Sci-fi" />
 		<match name="Scott_Free" expression="scott free" />
@@ -627,7 +633,7 @@
 		<match name="mkv" expression=".*mkv.*" />
 		<match name="mkv" expression=".*matroska.*" />
 		<match name="mpeg4" expression=".*msmpeg4.*" />
-		<match name="dvd" expression=".*mpeg2video.*" />
+		<match name="mpeg2" expression=".*mpeg2.*" />
 		<match name="flv" expression=".*flv.*" />
 		<match name="mpeg" expression=".*mpeg.*" />
 		<match name="mpeg2" expression=".*mpeg2.*" />
