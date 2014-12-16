@@ -256,7 +256,7 @@
 		<match name="Hemus_Film" expression="hemus" />
 		<match name="Heyday_Films" expression="heyday" />
 		<match name="HGTV" expression="HGTV" />
-		<match name="historychannel" expression="history *(channel)?" />
+		<match name="historychannel" expression="history ?(channel)?" />
 		<match name="Hollywood_Pictures" expression="hollywood pictures" />
 		<match name="Hustler_Video" expression="hustler video" />
 		<match name="Hyde_Park_Entertainment" expression="hyde park" />
