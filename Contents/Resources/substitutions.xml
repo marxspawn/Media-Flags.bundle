@@ -635,7 +635,6 @@
 		<match name="mpeg2" expression=".*mpeg2.*" />
 		<match name="flv" expression=".*flv.*" />
 		<match name="mpeg" expression=".*mpeg.*" />
-		<match name="mpeg2" expression=".*mpeg2.*" />
 		<match name="quicktime" expression=".*quicktime.*" />
 	</VideoCodec>
 	<AudioCodec>
