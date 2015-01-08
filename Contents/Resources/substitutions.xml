@@ -277,7 +277,7 @@
 		<match name="lifetime" expression="lifetime" />
 		<match name="lift" expression="lift" />
 		<match name="lightstorm_entertainment" expression="lightstorm" />
-		<match name="lionsgate" expression="lion'?s.?gate" />
+		<match name="lionsgate" expression="lions.?gate" />
 		<match name="little_chicken" expression="little chicken" />
 		<match name="london_films" expression="london" />
 		<match name="lookout" expression="lookout" />
