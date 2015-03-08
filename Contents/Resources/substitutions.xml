@@ -37,6 +37,7 @@
 		<match name="artisan_entertainment" expression="artisan" />
 		<match name="aspen_film_society" expression="aspen film soc" />
 		<match name="atom_films" expression="atom" />
+		<match name="audience_network" expression="audience network" />
 		<match name="australian_film_commission" expression="australian film commission" />
 		<match name="avalanche_studios" expression="avalanche" />
 		<match name="avnet_kerner" expression="avnet.?kerner" />
