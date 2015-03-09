@@ -501,7 +501,7 @@
 		<match name="universal" expression="universal( pictures| studios)?" />
 		<match name="univision" expression="univision" />
 		<match name="upn" expression="upn" />
-		<match name="usanetwork" expression="usa.?network" />
+		<match name="usa_network" expression="usa.?network" />
 		<match name="vara" expression="vara" />
 		<match name="versus" expression="versus" />
 		<match name="vertigo" expression="vertigo" />
