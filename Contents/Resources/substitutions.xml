@@ -9,7 +9,7 @@
 		<match name="777_film_corp" expression="^777" />
 		<match name="aardman" expression="aardman" />
 		<match name="abandon" expression="abandon" />
-		<match name="abc_australia" expression="(abc1|australian broadcasting)" />
+		<match name="abc_australia" expression="(abc1|australian broadcasting|abc \(au\))" />
 		<match name="abc" expression="(abc|american broadcasting)" />
 		<match name="abc_family" expression="abc family" />
 		<match name="adult_swim" expression="adult.?swim" />
@@ -184,7 +184,7 @@
 		<match name="food_network" expression="food.?network" />
 		<match name="forte_cinema" expression="forte" />
 		<match name="fourhands_film" expression="fourhands" />
-		<match name="fox" expression="fox network" />
+		<match name="fox" expression="(fox network|fox \(us\))" />
 		<match name="fox_atomic" expression="fox atomic" />
 		<match name="fox_searchlight_pictures" expression="fox searchlight" />
 		<match name="france_2" expression="france 2" />
