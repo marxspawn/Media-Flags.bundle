@@ -531,6 +531,7 @@
 		<match name="working_title_films" expression="working title" />
 		<match name="xfilme" expression="x-filme" />
 		<match name="xxx_productions" expression="xxx productions" />
+		<match name="yahoo_screen" expression="yahoo.*screen" />
 		<match name="yari_film_group" expression="yari" />
 		<match name="zaloom_mayfield" expression="zaloom" />
 		<match name="zdf" expression="zdf" />
