@@ -105,6 +105,7 @@
 		<match name="channel5" expression="channel.?5" />
 		<match name="cheyenne" expression="cheyenne" />
 		<match name="cinemax" expression="cinemax" />
+		<match name="city" expression="^city$" />
 		<match name="cmt" expression="^cmt" />
 		<match name="cnc" expression="^cnc" />
 		<match name="columbia_pictures" expression="columbia" />
