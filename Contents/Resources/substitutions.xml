@@ -148,6 +148,7 @@
 		<match name="ealing" expression="ealing" />
 		<match name="eclectic" expression="eclectic" />
 		<match name="edmonds_entertainment" expression="edmonds" />
+		<match name="el_rey_network" expression="el rey network" />
 		<match name="electric_enterteinment" expression="electric enterteinment" />
 		<match name="electric_pictures" expression="electric pictures" />
 		<match name="eleven_eleven" expression="eleven" />
