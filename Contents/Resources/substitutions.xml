@@ -467,6 +467,7 @@
 		<match name="tcm" expression="tcm" />
 		<match name="telecinco" expression="telecinco" />
 		<match name="telemundo" expression="telemundo" />
+		<match name="teletoon" expression="teletoon" />
 		<match name="telos" expression="telos" />
 		<match name="tf1" expression="^tf1" />
 		<match name="the_cw" expression="the.?cw" />
