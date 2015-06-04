@@ -116,6 +116,7 @@
 		<match name="constellation" expression="constellation" />
 		<match name="cookie_jar" expression="cookie jar" />
 		<match name="cpfilms" expression="cpfilms" />
+		<match name="crackle" expression="crackle" />
 		<match name="criterion" expression="criterion" />
 		<match name="ctv" expression="^ctv" />
 		<match name="cw" expression="cw" />
