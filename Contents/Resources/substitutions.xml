@@ -342,6 +342,7 @@
 		<match name="nordisk_film" expression="nordisk.?film" />
 		<match name="northern_lights_entertainment" expression="northern lights entertainment" />
 		<match name="nothing" expression="nothing" />
+		<match name="nrk1" expression="^nrk1" />
 		<match name="nuimage" expression="nuimage" />
 		<match name="o2_filmes" expression="o2 filmes" />
 		<match name="oddlot" expression="oddlot" />
