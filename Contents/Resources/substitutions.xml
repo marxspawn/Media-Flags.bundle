@@ -420,7 +420,7 @@
 		<match name="sbs" expression="(^sbs$|special broadcasting)" />
 		<match name="scifi" expression="sci.?fi" />
 		<match name="scott_free" expression="scott free" />
-		<match name="screen australia" expression="screen australia" />
+		<match name="screen_australia" expression="screen australia" />
 		<match name="screen_gems" expression="screen gems" />
 		<match name="selznick_pictures" expression="selznick" />
 		<match name="semafor" expression="semafor" />
