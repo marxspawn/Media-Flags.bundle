@@ -196,7 +196,8 @@
 		<match name="franchise_pictures" expression="franchise pictures" />
 		<match name="fuji_tv" expression="fuji" />
 		<match name="future_flix" expression="future flix" />
-		<match name="fx" expression="fx.?network" />
+		<match name="fx" expression="^fx$" />
+		<match name="fxx" expression="^fxx$" />
 		<match name="g4" expression="^g4" />
 		<match name="gaumont" expression="gaumont" />
 		<match name="gk_films" expression="gk films" />
