@@ -246,6 +246,7 @@
 		<match name="ingenious_film_partners" expression="ingenious" />
 		<match name="ingenius_entertainment" expression="ingenious entertainment" />
 		<match name="inside_track" expression="inside track" />
+		<match name="insurge_pictures" expression="insurge pictures" />
 		<match name="interactual" expression="interactual" />
 		<match name="intermedia" expression="intermedia" />
 		<match name="interscope_shady_aftermath" expression="interscope.?shady.?aftermath" />
