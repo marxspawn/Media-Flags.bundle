@@ -371,6 +371,7 @@
 		<match name="plan_b" expression="plan b" />
 		<match name="platige" expression="platige" />
 		<match name="platinum_dunes" expression="platinumdunes" />
+		<match name="playstation_network" expression="playstation network" />
 		<match name="playtone" expression="playtone" />
 		<match name="play_uk" expression="play uk" />
 		<match name="play_uk" expression="uk play" />
