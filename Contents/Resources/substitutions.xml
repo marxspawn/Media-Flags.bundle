@@ -222,7 +222,8 @@
 		<match name="hand_made_films" expression="hand.?made.?films" />
 		<match name="happy_madison" expression="happy madison productions" />
 		<match name="hasbro" expression="hasbro" />
-		<match name="hbo" expression="(hbo|home box office)" />
+		<match name="hbo" expression="^(hbo|home box office)$" />
+		<match name="hbo_films" expression="hbo films" />
 		<match name="hemus_film" expression="hemus" />
 		<match name="heyday_films" expression="heyday" />
 		<match name="hgtv" expression="hgtv" />
