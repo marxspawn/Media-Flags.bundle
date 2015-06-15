@@ -254,9 +254,7 @@
 		<match name="intrepid_pictures" expression="intrepid" />
 		<match name="island_world" expression="island world" />
 		<match name="iti_film_studio" expression="iti film studio" />
-		<match name="itv" expression="^itv$" />
-		<match name="itv1" expression="itv1" />
-		<match name="itv2" expression="itv2" />
+		<match name="itv" expression="^itv" />
 		<match name="janus" expression="janus" />
 		<match name="jarowskij" expression="jarowskij" />
 		<match name="jawa" expression="jawa" />
