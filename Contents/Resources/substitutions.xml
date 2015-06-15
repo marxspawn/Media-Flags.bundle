@@ -289,6 +289,7 @@
 		<match name="lookout" expression="lookout" />
 		<match name="lucasfilm" expression="lucas(arts|film)" />
 		<match name="lucky_7" expression="lucky 7" />
+		<match name="m6" expression="^m6$" />
 		<match name="madman" expression="madman" />
 		<match name="magnolia_pictures" expression="magnolia" />
 		<match name="mandalay_pictures" expression="mandalay" />
