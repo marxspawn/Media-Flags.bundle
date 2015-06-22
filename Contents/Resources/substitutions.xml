@@ -220,6 +220,7 @@
 		<match name="gutek" expression="gutek" />
 		<match name="halestorm" expression="halestorm" />
 		<match name="hallucination_on_film" expression="hallucination on film" />
+		<match name="hallmark_channel" expression="hallmark channel" />
 		<match name="hand_made_films" expression="hand.?made.?films" />
 		<match name="happy_madison" expression="happy madison productions" />
 		<match name="hasbro" expression="hasbro" />
