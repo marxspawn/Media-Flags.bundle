@@ -127,7 +127,7 @@
 		<match name="dark_castle_entertainment" expression="dark castle" />
 		<match name="dark_horse" expression="dark horse" />
 		<match name="davis_entertainment" expression="davis entertainment" />
-		<match name="dc_comics" expression="dc comics" />
+		<match name="dc" expression="^dc (comics|entertainment)" />
 		<match name="destination_films" expression="destination" />
 		<match name="de_laurentiis" expression="de laurentiis" />
 		<match name="dfi" expression="dfi" />
