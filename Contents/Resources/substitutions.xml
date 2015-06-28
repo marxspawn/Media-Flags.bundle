@@ -190,6 +190,7 @@
 		<match name="fourhands_film" expression="fourhands" />
 		<match name="fox" expression="(fox network|fox \(us\))" />
 		<match name="fox_atomic" expression="fox atomic" />
+		<match name="fox_kids" expression="fox kids" />
 		<match name="fox_searchlight_pictures" expression="fox searchlight" />
 		<match name="france_2" expression="france 2" />
 		<match name="france_3" expression="france 3" />
