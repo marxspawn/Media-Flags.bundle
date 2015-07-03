@@ -157,6 +157,7 @@
 		<match name="encore" expression="encore" />
 		<match name="endgame_entertainment" expression="endgame" />
 		<match name="entara" expression="entara" />
+		<match name="entertainment_one" expression="entertainment one" />
 		<match name="entertainment_television" expression="(e!|entertainment television)" />
 		<match name="eon_productions" expression="eon productions" />
 		<match name="escape_artists" expression="escape artists" />
