@@ -323,7 +323,7 @@
 		<match name="mosfilm" expression="mosfilm" />
 		<match name="mpca" expression="mpca" />
 		<match name="msnbc" expression="msnbc" />
-		<match name="mtv" expression="^mtv$" />
+		<match name="mtv" expression="^mtv( \(us\))?$" />
 		<match name="mtv3" expression="mtv3" />
 		<match name="musashi_films" expression="musashi" />
 		<match name="mutual_film_company" expression="mutual film company" />
