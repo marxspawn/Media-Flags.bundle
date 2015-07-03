@@ -162,7 +162,7 @@
 		<match name="escape_artists" expression="escape artists" />
 		<match name="espn" expression="espn" />
 		<match name="eurimages" expression="eurimages" />
-		<match name="europa_corp" expression="europa corp" />
+		<match name="europa_corp" expression="europa\s{0,1}corp" />
 		<match name="eurosport" expression="eurosport" />
 		<match name="excel" expression="excel" />
 		<match name="eyekiss_films" expression="eyekiss films" />
