@@ -426,7 +426,7 @@
 		<match name="sat1" expression="sat1" />
 		<match name="saturn_films" expression="saturn" />
 		<match name="saul_zaentz" expression="saul zaentz" />
-		<match name="sbs" expression="(^sbs$|special broadcasting)" />
+		<match name="sbs" expression="(^sbs( \(au\))?$|special broadcasting)" />
 		<match name="scifi" expression="sci.?fi" />
 		<match name="scott_free" expression="scott free" />
 		<match name="screen_australia" expression="screen australia" />
