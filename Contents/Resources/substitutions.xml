@@ -17,7 +17,7 @@
 		<match name="after_dark" expression="after dark" />
 		<match name="alcon_entertainment" expression="alcon" />
 		<match name="alfred_hitchcock_productions" expression="hitchcock" />
-		<match name="alliance_atlantis" expression="alliance atlantis" />
+		<match name="alliance" expression="^alliance" />
 		<match name="alloy" expression="alloy" />
 		<match name="alphaville" expression="alphaville" />
 		<match name="amazon_studios" expression="amazon" />
