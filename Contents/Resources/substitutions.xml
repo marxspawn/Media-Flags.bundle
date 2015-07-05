@@ -158,7 +158,7 @@
 		<match name="endgame_entertainment" expression="endgame" />
 		<match name="entara" expression="entara" />
 		<match name="entertainment_one" expression="entertainment one" />
-		<match name="entertainment_television" expression="(e!|entertainment television)" />
+		<match name="entertainment_television" expression="(e\!|entertainment television)" />
 		<match name="eon_productions" expression="eon productions" />
 		<match name="escape_artists" expression="escape artists" />
 		<match name="espn" expression="espn" />
@@ -266,6 +266,7 @@
 		<match name="jerry_bruckheimer_films" expression="jerry bruckheimer" />
 		<match name="jersey_films" expression="jersey films" />
 		<match name="jim_henson" expression="jim henson" />
+		<match name="kaboom_entertainment" expression="kaboom\!? entertainment" />
 		<match name="kadokawa_pictures" expression="kadokawa" />
 		<match name="kadr" expression="kadr" />
 		<match name="kamera" expression="kamera" />
@@ -458,8 +459,7 @@
 		<match name="squareenix" expression="squareenix" />
 		<match name="stage6" expression="stage6" />
 		<match name="starbucks_entertainment" expression="starbucks" />
-		<match name="starz" expression="starz!" />
-		<match name="starz" expression="starz" />
+		<match name="starz" expression="starz\!?" />
 		<match name="steele" expression="steele" />
 		<match name="storyline" expression="storyline" />
 		<match name="studio_canal" expression="studio canal" />
