@@ -535,7 +535,7 @@
 		<match name="vtm" expression="vtm" />
 		<match name="walden_media" expression="walden" />
 		<match name="walt_disney_pictures" expression="disney" />
-		<match name="warner_bros" expression="(wb|warner bro|warner bros\.? entertainment)" />
+		<match name="warner_bros" expression="^(wb|warner bros\.? entertainment|warner bros\.?)$" />
 		<match name="warner_bros_animation" expression="warner bros\.? animation" />
 		<match name="warner_independent_pictures" expression="warner independent pictures" />
 		<match name="water_walk_productions" expression="water walk productions" />
