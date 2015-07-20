@@ -7,6 +7,7 @@
 		<match name="40_acres" expression="40 acres" />
 		<match name="57_irving" expression="57 irving" />
 		<match name="777_film_corp" expression="^777" />
+		<match name="a24" expression="^a24" />
 		<match name="aardman" expression="aardman" />
 		<match name="abandon" expression="abandon" />
 		<match name="abc_australia" expression="(abc1|australian broadcasting|abc \(au\))" />
