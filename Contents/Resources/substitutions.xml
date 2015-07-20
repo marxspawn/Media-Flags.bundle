@@ -235,6 +235,7 @@
 		<match name="hgtv" expression="hgtv" />
 		<match name="history_channel" expression="history.?(channel)?" />
 		<match name="hollywood_pictures" expression="hollywood pictures" />
+		<match name="hopscotch_films" expression="hopscotch films" />
 		<match name="hulu" expression="hulu" />
 		<match name="hustler_video" expression="hustler video" />
 		<match name="hyde_park_entertainment" expression="hyde park" />
