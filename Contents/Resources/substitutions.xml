@@ -56,6 +56,7 @@
 		<match name="batjac" expression="batjac productions" />
 		<match name="bazmark" expression="bazmark" />
 		<match name="bbc_america" expression="bbc.?america" />
+		<match name="bbc_films" expression="bbc.?films" />
 		<match name="bbc_four" expression="bbc.?(4|four)" />
 		<match name="bbc_one" expression="bbc.?(1|one)" />
 		<match name="bbc_prime" expression="bbc.?prime" />
