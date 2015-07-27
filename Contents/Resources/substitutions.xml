@@ -476,6 +476,7 @@
 		<match name="svt1" expression="svt1" />
 		<match name="svt2" expression="svt2" />
 		<match name="syfy" expression="syfy" />
+		<match name="syncopy" expression="syncopy" />
 		<match name="syndicated" expression="syndicated" />
 		<match name="syrena" expression="syrena" />
 		<match name="tandem" expression="tandem" />
