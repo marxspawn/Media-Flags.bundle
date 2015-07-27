@@ -425,6 +425,7 @@
 		<match name="rtl5" expression="rtl5" />
 		<match name="rtl7" expression="rtl7" />
 		<match name="rysher_entertainment" expression="rysher" />
+		<match name="saban" expression="saban" />
 		<match name="salter_street_films" expression="salter street" />
 		<match name="sandrew" expression="sandrew" />
 		<match name="sat1" expression="sat1" />
