@@ -525,6 +525,7 @@
 		<match name="united_artists" expression="united artists" />
 		<match name="universal" expression="universal( pictures| studios)?" />
 		<match name="univision" expression="univision" />
+		<match name="up_tv" expression="^up tv" />
 		<match name="upn" expression="upn" />
 		<match name="usa_network" expression="usa.?network" />
 		<match name="vara" expression="vara" />
