@@ -450,7 +450,8 @@
 		<match name="sidney_kimmel" expression="sidney kimmel" />
 		<match name="silver_pictures" expression="silver pictures" />
 		<match name="sky_1" expression="sky 1" />
-		<match name="sky" expression="sky" />
+		<match name="sky" expression="^sky$" />
+		<match name="skydance_productions" expression="skydance productions" />
 		<match name="slim_films" expression="slim films" />
 		<match name="smc" expression="smc" />
 		<match name="snl_studios" expression="snl studios" />
