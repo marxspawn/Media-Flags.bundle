@@ -576,7 +576,7 @@
 		<match name="dolby_digital" expression="ac.?3" />
 		<match name="dolby_truehd" expression="truehd" />
 		<match name="dts" expression="(dca|dta)" />
-		<match name="dtshd_ma" expression="dtsma" />
+		<match name="dca-ma" expression="dts(hd_|-hd|-)?ma" />
 		<match name="pcm" expression="pcm" />
 		<match name="ogg" expression="vorbis" />
 	</AudioCodec>
