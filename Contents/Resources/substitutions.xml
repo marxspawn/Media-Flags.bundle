@@ -272,6 +272,7 @@
 		<match name="jerry_bruckheimer_films" expression="jerry bruckheimer" />
 		<match name="jersey_films" expression="jersey films" />
 		<match name="jim_henson" expression="jim henson" />
+		<match name="jj_splice" expression="jj splice" />
 		<match name="kaboom_entertainment" expression="kaboom\!? entertainment" />
 		<match name="kadokawa_pictures" expression="kadokawa" />
 		<match name="kadr" expression="kadr" />
