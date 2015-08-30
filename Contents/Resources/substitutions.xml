@@ -125,6 +125,7 @@
 		<match name="crackle" expression="crackle" />
 		<match name="criterion" expression="criterion" />
 		<match name="ctv" expression="^ctv" />
+		<match name="cw_seed" expression="cw seed" />
 		<match name="cw" expression="cw" />
 		<match name="czolowka" expression="czolowka" />
 		<match name="damselfly" expression="damselfly" />
