@@ -312,6 +312,7 @@
 		<match name="marvel" expression="marvel" />
 		<match name="maverick" expression="maverick" />
 		<match name="maya_entertainment" expression="maya" />
+		<match name="mbs" expression="^mbs" />
 		<match name="media8" expression="media 8" />
 		<match name="mediapro" expression="media pro" />
 		<match name="meridian_films" expression="meridian" />
