@@ -405,6 +405,8 @@
 		<match name="radical_media" expression="radical media" />
 		<match name="rai_cinema" expression="rai cinema" />
 		<match name="rankin" expression="rankin" />
+		<match name="ratpac_dune_entertainment" expression="ratpac.dune entertainment" />
+		<match name="ratpac_entertainment" expression="ratpac entertainment" />
 		<match name="redrum" expression="redrum" />
 		<match name="red_hour" expression="red hour" />
 		<match name="red_wagon_entertainment" expression="red wagon entertainment" />
