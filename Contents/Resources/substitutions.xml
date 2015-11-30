@@ -556,6 +556,7 @@
 		<match name="warner_independent_pictures" expression="warner independent pictures" />
 		<match name="water_walk_productions" expression="water walk productions" />
 		<match name="wdr" expression="wdr" />
+		<match name="we_tv" expression="we tv" />
 		<match name="weinstein_company" expression="weinstein" />
 		<match name="wfdif" expression="wfdif" />
 		<match name="wgn" expression="wgn" />
