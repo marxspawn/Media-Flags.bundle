@@ -352,7 +352,7 @@
 		<match name="new_deal_entertainment" expression="new deal" />
 		<match name="new_line_cinema" expression="new line cinema" />
 		<match name="new_zealand_film_commission" expression="(nzfc|new zealand film commission)" />
-		<match name="ngc" expression="ngc" />
+		<match name="ngc" expression="(ngc|national geographic)" />
 		<match name="nick_jr" expression="nick jr" />
 		<match name="nick_at_nite" expression="nick at nite" />
 		<match name="nickelodeon" expression="nickelodeon" />
