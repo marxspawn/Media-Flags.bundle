@@ -205,6 +205,7 @@
 		<match name="france_3" expression="france 3" />
 		<match name="france_4" expression="france 4" />
 		<match name="franchise_pictures" expression="franchise pictures" />
+		<match name="freeform" expression="freeform" />
 		<match name="fuji_tv" expression="fuji" />
 		<match name="future_flix" expression="future flix" />
 		<match name="fx" expression="^fx$" />
