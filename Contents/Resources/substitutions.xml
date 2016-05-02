@@ -112,6 +112,7 @@
 		<match name="channel4" expression="channel.?4" />
 		<match name="channel5" expression="channel.?5" />
 		<match name="cheyenne" expression="cheyenne" />
+		<match name="chiller" expression="chiller" />
 		<match name="cinemax" expression="cinemax" />
 		<match name="city" expression="^city$" />
 		<match name="cmt" expression="^cmt" />
