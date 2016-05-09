@@ -430,7 +430,7 @@
 		<match name="roadside_attractions" expression="roadside attractions" />
 		<match name="rogue_pictures" expression="rogue pictures" />
 		<match name="romar" expression="romar" />
-		<match name="rte_one" expression="rte one" />
+		<match name="rte_one" expression="rté one" />
 		<match name="rtl_ii" expression="rtl ii" />
 		<match name="rtl" expression="rtl" />
 		<match name="rtl4" expression="rtl4" />
