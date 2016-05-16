@@ -478,6 +478,7 @@
 		<match name="spyglass_entertainment" expression="spyglass" />
 		<match name="squareenix" expression="squareenix" />
 		<match name="stage6" expression="stage6" />
+		<match name="stan" expression="^stan$" />
 		<match name="starbucks_entertainment" expression="starbucks" />
 		<match name="starz" expression="starz\!?" />
 		<match name="steele" expression="steele" />
