@@ -297,6 +297,7 @@
 		<match name="lawrence_bender_productions" expression="lawrence bender" />
 		<match name="league of noble peers" expression="league of noble peers" />
 		<match name="legendary_pictures" expression="legendary" />
+		<match name="lego" expression="^lego" />
 		<match name="liberty_films" expression="liberty" />
 		<match name="lifetime" expression="lifetime" />
 		<match name="lift" expression="lift" />
