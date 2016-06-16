@@ -290,6 +290,7 @@
 		<match name="kinepolis" expression="kinepolis" />
 		<match name="king_world" expression="king world" />
 		<match name="kinowelt" expression="kinowelt" />
+		<match name="konami" expression="^konami" />
 		<match name="kopelson" expression="kopelson" />
 		<match name="ladd" expression="ladd" />
 		<match name="lakeshore_entertainment" expression="lakeshore" />
