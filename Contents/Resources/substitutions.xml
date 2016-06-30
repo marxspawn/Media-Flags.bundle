@@ -471,7 +471,7 @@
 		<match name="smc" expression="smc" />
 		<match name="snl_studios" expression="snl studios" />
 		<match name="sobini_films" expression="sobini films" />
-		<match name="sony" expression="sony" />
+		<match name="sony_pictures" expression="sony" />
 		<match name="space" expression="space" />
 		<match name="spelling_films" expression="spelling films" />
 		<match name="spike" expression="spike" />
