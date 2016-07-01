@@ -486,7 +486,7 @@
 		<match name="starz" expression="starz\!?" />
 		<match name="steele" expression="steele" />
 		<match name="storyline" expression="storyline" />
-		<match name="studio_canal" expression="studio canal" />
+		<match name="studio_canal" expression="studio ?canal" />
 		<match name="studio_ghibli" expression="studio ghibli" />
 		<match name="summit" expression="summit" />
 		<match name="sundancetv" expression="sundance.*tv" />
