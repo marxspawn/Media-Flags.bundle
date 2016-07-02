@@ -163,6 +163,7 @@
 		<match name="electric_enterteinment" expression="electric enterteinment" />
 		<match name="electric_pictures" expression="electric pictures" />
 		<match name="eleven_eleven" expression="eleven" />
+		<match name="emi" expression="^emi film" />
 		<match name="emmedia" expression="emmedia" />
 		<match name="encore" expression="encore" />
 		<match name="endgame_entertainment" expression="endgame" />
