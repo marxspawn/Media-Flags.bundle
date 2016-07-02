@@ -185,7 +185,7 @@
 		<match name="filmforderung_hamburg" expression="filmforderung hamburg" />
 		<match name="filmoteka narodowa" expression="filmoteka narodowa" />
 		<match name="filmstiftung_nordrhein-westfalen" expression="filmstiftung nordrhein-westfalen" />
-		<match name="film_colony" expression="film colony" />
+		<match name="film_colony" expression="film ?colony" />
 		<match name="film_four" expression="(channel four films|film.?(4|four))" />
 		<match name="film_institut" expression="film institut" />
 		<match name="film_media" expression="film media" />
