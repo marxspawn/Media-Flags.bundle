@@ -154,6 +154,7 @@
 		<match name="dolores_pictures" expression="dolores pictures" />
 		<match name="donners" expression="donners" />
 		<match name="don_simpson_jerry_bruckheimer_films" expression="don simpson.?jerry bruckheimer films" />
+		<match name="dreamworks_animation" expression="dreamworks animation" />
 		<match name="dreamworks" expression="dreamworks" />
 		<match name="e4" expression="e4" />
 		<match name="ealing" expression="ealing" />
