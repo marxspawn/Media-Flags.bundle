@@ -463,6 +463,7 @@
 		<match name="shangri-la_entertainment" expression="shangri-la" />
 		<match name="shout_factory" expression="shout factory" />
 		<match name="showcase" expression="showcase" />
+		<match name="showcase_au" expression="showcase \(au\)" />
 		<match name="showtime" expression="showtime" />
 		<match name="sidney_kimmel" expression="sidney kimmel" />
 		<match name="silver_pictures" expression="silver pictures" />
