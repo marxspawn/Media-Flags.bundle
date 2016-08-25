@@ -374,6 +374,7 @@
 		<match name="oddlot" expression="oddlot" />
 		<match name="oko" expression="oko" />
 		<match name="only_vegas" expression="only vegas" />
+		<match name="oprah_winfrey_network" expression="^(oprah winfrey network|own)$" />
 		<match name="orf" expression="orf" />
 		<match name="orion" expression="orion" />
 		<match name="overturefilms" expression="overturefilms" />
