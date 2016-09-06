@@ -140,6 +140,7 @@
 		<match name="dc" expression="^dc (comics|entertainment)" />
 		<match name="destination_films" expression="destination" />
 		<match name="de_laurentiis" expression="de laurentiis" />
+		<match name="defa" expression="(deutsche film ag|defa-filmverleih|defa-studio.+)" />
 		<match name="dfi" expression="dfi" />
 		<match name="dickhouse_productions" expression="dickhouse" />
 		<match name="digital_playground" expression="digital playground" />
