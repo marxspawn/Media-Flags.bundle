@@ -498,6 +498,7 @@
 		<match name="studio_ghibli" expression="studio ghibli" />
 		<match name="summit" expression="summit" />
 		<match name="sundancetv" expression="sundance.*tv" />
+		<match name="sunrise" expression="sunrise" />
 		<match name="super_channel" expression="super channel" />
 		<match name="svensk_filmindustri" expression="svensk" />
 		<match name="svt" expression="svt" />
