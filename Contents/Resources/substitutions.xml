@@ -17,6 +17,7 @@
 		<match name="adult_swim" expression="adult.*swim" />
 		<match name="afi" expression="(^afi$|american film institute)" />
 		<match name="after_dark" expression="after dark" />
+		<match name="aic" expression="(aic|aic digital|aic classic)" />
 		<match name="alcon_entertainment" expression="alcon" />
 		<match name="alfred_hitchcock_productions" expression="hitchcock" />
 		<match name="alliance" expression="^alliance" />
@@ -499,6 +500,7 @@
 		<match name="studio_ghibli" expression="studio ghibli" />
 		<match name="summit" expression="summit" />
 		<match name="sundancetv" expression="sundance.*tv" />
+		<match name="sunrise" expression="sunrise" />
 		<match name="super_channel" expression="super channel" />
 		<match name="svensk_filmindustri" expression="svensk" />
 		<match name="svt" expression="svt" />
