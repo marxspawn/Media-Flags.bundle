@@ -1,7 +1,8 @@
 <MediaFlagSubstitutions>
 	<Studio>
 		<match name="1492_pictures" expression="^1492" />
-		<match name="20th_century_fox" expression="((20th|twentieth) century fox|fox 2000|fox film corp)" />
+		<match name="20th_century_fox_animation" expression="(20th|twentieth) century fox animation" />
+		<match name="20th_century_fox" expression="^(?!.*animation)((20th|twentieth) century fox|fox 2000|fox film corp)" />
 		<match name="2929" expression="^2929" />
 		<match name="360_pictures" expression="360 pictures" />
 		<match name="40_acres" expression="40 acres" />
