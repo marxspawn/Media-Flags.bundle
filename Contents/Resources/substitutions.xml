@@ -444,9 +444,10 @@
 		<match name="rte_one" expression="^rt. one" />
 		<match name="rtl_ii" expression="rtl ii" />
 		<match name="rtl" expression="rtl" />
-		<match name="rtl4" expression="rtl4" />
-		<match name="rtl5" expression="rtl5" />
-		<match name="rtl7" expression="rtl7" />
+		<match name="rtl4" expression="rtl 4" />
+		<match name="rtl5" expression="rtl 5" />
+		<match name="rtl7" expression="rtl 7" />
+		<match name="rtl8" expression="rtl 8" />
 		<match name="rysher_entertainment" expression="rysher" />
 		<match name="saban" expression="saban" />
 		<match name="salter_street_films" expression="salter street" />
