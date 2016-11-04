@@ -139,6 +139,7 @@
 		<match name="damselfly" expression="damselfly" />
 		<match name="danjaq" expression="danjaq" />
 		<match name="dark_castle_entertainment" expression="dark castle" />
+		<match name="dave" expression="dave" />
 		<match name="dark_horse" expression="dark horse" />
 		<match name="davis_entertainment" expression="davis entertainment" />
 		<match name="dc" expression="^dc (comics|entertainment)" />
@@ -177,6 +178,7 @@
 		<match name="entertainment_one" expression="^(entertainment one|eone|e1)" />
 		<match name="entertainment_television" expression="(e\!|entertainment television)" />
 		<match name="eon_productions" expression="eon productions" />
+		<match name="epix" expression="epix" />
 		<match name="escape_artists" expression="escape artists" />
 		<match name="espn" expression="espn" />
 		<match name="eurimages" expression="eurimages" />
@@ -444,9 +446,10 @@
 		<match name="rte_one" expression="^rt. one" />
 		<match name="rtl_ii" expression="rtl ii" />
 		<match name="rtl" expression="rtl" />
-		<match name="rtl4" expression="rtl4" />
-		<match name="rtl5" expression="rtl5" />
-		<match name="rtl7" expression="rtl7" />
+		<match name="rtl4" expression="rtl 4" />
+		<match name="rtl5" expression="rtl 5" />
+		<match name="rtl7" expression="rtl 7" />
+		<match name="rtl8" expression="rtl 8" />
 		<match name="rysher_entertainment" expression="rysher" />
 		<match name="saban" expression="saban" />
 		<match name="salter_street_films" expression="salter street" />
@@ -563,6 +566,7 @@
 		<match name="viacom" expression="viacom" />
 		<match name="view_askew" expression="view askew" />
 		<match name="village_roadshow_pictures" expression="village roadshow" />
+		<match name="vimeo" expression="vimeo" />
 		<match name="virtual_studios" expression="virtual studios" />
 		<match name="vital_film_works" expression="vital" />
 		<match name="viz" expression="viz" />
