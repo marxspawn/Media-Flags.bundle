@@ -566,6 +566,7 @@
 		<match name="viacom" expression="viacom" />
 		<match name="view_askew" expression="view askew" />
 		<match name="village_roadshow_pictures" expression="village roadshow" />
+		<match name="vimeo" expression="vimeo" />
 		<match name="virtual_studios" expression="virtual studios" />
 		<match name="vital_film_works" expression="vital" />
 		<match name="viz" expression="viz" />
