@@ -139,6 +139,7 @@
 		<match name="damselfly" expression="damselfly" />
 		<match name="danjaq" expression="danjaq" />
 		<match name="dark_castle_entertainment" expression="dark castle" />
+		<match name="dave" expression="dave" />
 		<match name="dark_horse" expression="dark horse" />
 		<match name="davis_entertainment" expression="davis entertainment" />
 		<match name="dc" expression="^dc (comics|entertainment)" />
