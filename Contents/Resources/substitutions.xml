@@ -473,6 +473,7 @@
 		<match name="seven network" expression="seven" />
 		<match name="sfi" expression="(^sfi$|swedish film institute)" />
 		<match name="shady_acres_entertainment" expression="shady acres" />
+		<match name="shaft" expression="(studio )?shaft" />
 		<match name="shangri-la_entertainment" expression="shangri-la" />
 		<match name="shout_factory" expression="shout factory" />
 		<match name="showcase" expression="^showcase( \(ca\))?$" />
