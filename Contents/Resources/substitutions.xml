@@ -386,6 +386,7 @@
 		<match name="orf" expression="orf" />
 		<match name="orion" expression="orion" />
 		<match name="overturefilms" expression="overturefilms" />
+    <match name="pa_works" expression="(progressive animation|p.a.) works" />
 		<match name="pan_vision" expression="pan vision" />
 		<match name="pandora_film" expression="pandora film" />
 		<match name="paramount_classics" expression="paramount class" />
