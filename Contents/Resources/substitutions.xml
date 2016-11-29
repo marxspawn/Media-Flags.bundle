@@ -418,6 +418,7 @@
 		<match name="premiere direkt" expression="premiere direkt" />
 		<match name="premiere" expression="premiere" />
 		<match name="private_pictures" expression="private pictures" />
+		<match name="production_i_g" expression="production i\.?g\.?" />
 		<match name="profilm_productions" expression="profilm" />
 		<match name="promotion_pictures" expression="promotion pictures" />
 		<match name="prosieben" expression="prosieben" />
