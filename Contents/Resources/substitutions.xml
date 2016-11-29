@@ -302,7 +302,7 @@
 		<match name="kinowelt" expression="kinowelt" />
 		<match name="konami" expression="^konami" />
 		<match name="kopelson" expression="kopelson" />
-    <match name="kyoto_animation" expression="kyoto animation" />
+		<match name="kyoto_animation" expression="kyoto animation" />
 		<match name="ladd" expression="ladd" />
 		<match name="lakeshore_entertainment" expression="lakeshore" />
 		<match name="latham" expression="latham" />
@@ -387,7 +387,7 @@
 		<match name="orf" expression="orf" />
 		<match name="orion" expression="orion" />
 		<match name="overturefilms" expression="overturefilms" />
-    <match name="pa_works" expression="(progressive animation|p.a.) works" />
+		<match name="pa_works" expression="(progressive animation|p.a.) works" />
 		<match name="pan_vision" expression="pan vision" />
 		<match name="pandora_film" expression="pandora film" />
 		<match name="paramount_classics" expression="paramount class" />
