@@ -47,6 +47,7 @@
 		<match name="australian_film_commission" expression="australian film commission" />
 		<match name="avalanche_studios" expression="avalanche" />
 		<match name="avnet_kerner" expression="avnet.?kerner" />
+		<match name="a_1_pictures" expression="a(\.|\-| )?1 pictures" />
 		<match name="a_and_e" expression="a&amp;e" />
 		<match name="a_and_m" expression="a&amp;m" />
 		<match name="babylonian" expression="babylonian" />
@@ -301,6 +302,7 @@
 		<match name="kinowelt" expression="kinowelt" />
 		<match name="konami" expression="^konami" />
 		<match name="kopelson" expression="kopelson" />
+		<match name="kyoto_animation" expression="kyoto animation" />
 		<match name="ladd" expression="ladd" />
 		<match name="lakeshore_entertainment" expression="lakeshore" />
 		<match name="latham" expression="latham" />
@@ -319,6 +321,7 @@
 		<match name="lucasfilm" expression="lucas(arts|film)" />
 		<match name="lucky_7" expression="lucky 7" />
 		<match name="m6" expression="^m6$" />
+		<match name="madhouse" expression="mad ?house" />
 		<match name="madman" expression="madman" />
 		<match name="magnolia_pictures" expression="magnolia" />
 		<match name="mandalay_pictures" expression="mandalay" />
@@ -385,6 +388,7 @@
 		<match name="orf" expression="orf" />
 		<match name="orion" expression="orion" />
 		<match name="overturefilms" expression="overturefilms" />
+		<match name="pa_works" expression="(progressive animation|p.a.) works" />
 		<match name="pan_vision" expression="pan vision" />
 		<match name="pandora_film" expression="pandora film" />
 		<match name="paramount_classics" expression="paramount class" />
@@ -415,6 +419,7 @@
 		<match name="premiere direkt" expression="premiere direkt" />
 		<match name="premiere" expression="premiere" />
 		<match name="private_pictures" expression="private pictures" />
+		<match name="production_i_g" expression="production i\.?g\.?" />
 		<match name="profilm_productions" expression="profilm" />
 		<match name="promotion_pictures" expression="promotion pictures" />
 		<match name="prosieben" expression="prosieben" />
@@ -470,6 +475,7 @@
 		<match name="seven network" expression="seven" />
 		<match name="sfi" expression="(^sfi$|swedish film institute)" />
 		<match name="shady_acres_entertainment" expression="shady acres" />
+		<match name="shaft" expression="(studio )?shaft" />
 		<match name="shangri-la_entertainment" expression="shangri-la" />
 		<match name="shout_factory" expression="shout factory" />
 		<match name="showcase" expression="^showcase( \(ca\))?$" />
