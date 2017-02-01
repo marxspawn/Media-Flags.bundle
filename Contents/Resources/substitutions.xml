@@ -414,6 +414,7 @@
 		<match name="play_uk" expression="play uk" />
 		<match name="play_uk" expression="uk play" />
 		<match name="polsat" expression="polsat" />
+		<match name="pop" expression="^pop$" />
 		<match name="polygram" expression="polygram" />
 		<match name="porchlight" expression="porchlight" />
 		<match name="portman_film" expression="portman film" />
