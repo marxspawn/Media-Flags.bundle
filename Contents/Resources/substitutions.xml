@@ -27,6 +27,7 @@
 		<match name="ambience" expression="ambience" />
 		<match name="amblin_entertainment" expression="amblin" />
 		<match name="amc" expression="american movie classics" />
+		<match name="american_international_pictures" expression="american international pictures" />
 		<match name="american_masters" expression="american masters" />
 		<match name="american_zoetrope" expression="zoetrope" />
 		<match name="anchor_bay_entertainment" expression="anchor bay" />
