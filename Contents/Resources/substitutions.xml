@@ -620,7 +620,7 @@
 		<match name="wmvhd" expression="wmv3" />
 	</VideoCodec>
 	<AudioCodec>
-		<match name="dolby_digital" expression="ac.?3" />
+		<match name="ac3" expression="ac.?3" />
 		<match name="dolby_truehd" expression="truehd" />
 		<match name="dts" expression="(dca|dta)" />
 		<match name="dca-ma" expression="dts(hd_|-hd|-)?ma" />
